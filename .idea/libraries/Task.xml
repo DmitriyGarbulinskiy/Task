@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Task">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/work" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/opencsv-4.0-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$" recursive="false" />
+  </library>
+</component>
