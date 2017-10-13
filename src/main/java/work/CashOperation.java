@@ -6,9 +6,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 class CashOperation{
-//    private static double fProfit =0;
+
     private static BigDecimal fProfit = new BigDecimal("0");
-//    private static double fLoss=0;
+
     private static BigDecimal fLoss = new BigDecimal("0");
     private static List<Integer> purchasedProducts = new ArrayList<Integer>();
 
