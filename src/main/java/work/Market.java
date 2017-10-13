@@ -6,7 +6,8 @@ import java.io.IOException;
 // Test task "QA TestLab"
 // The program emulates 30 days of work of the store
 // DB will be loaded from "test.csv" file. You will find information about products left after work in this file
-//
+// Report about program work you can find in "report.txt"
+s
 // All information you can find in following classes :
 // "Stock" - This class "stores" DB and contains all functions to work with it
 // "CashOperation" - This class contains all cash operations
